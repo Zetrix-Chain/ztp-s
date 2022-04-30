@@ -1,0 +1,7 @@
+.DS_Store
+!.gitkeep
+.idea
+.idea/
+.classpath
+.project
+.settings/
